@@ -1,5 +1,6 @@
 {
   "name": "hng9-back-1",
+  "homepage": "https://hng9.kmovic.xyz/frontend/task1/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
