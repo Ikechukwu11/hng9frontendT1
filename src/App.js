@@ -8,10 +8,6 @@ function App() {
         <h3>
          Kevin Uzoma
         </h3>
-        <h3 id='slack'>
-         Kekesmovic
-        </h3>
-        
         <div className='App-link-div'>
         <a id='twitter'
           className="App-link"
@@ -24,7 +20,7 @@ function App() {
         </div>
 
         <div className='App-link-div'>
-        <a id='btn__zuri'
+        <a id='btn_zuri'
           className="App-link"
           href="https://training.zuri.team/"
           target="_blank"
@@ -46,7 +42,7 @@ function App() {
         </div>
 
         <div className='App-link-div'>
-        <a id='book__python'
+        <a id='book_python'
           className="App-link"
           href="https://books.zuri.team/python-for-beginners?ref_id=%3Ckekesmovic%3E"
           target="_blank"
@@ -68,7 +64,7 @@ function App() {
         </div>
         
         <div className='App-link-div'>
-        <a id='book__design'
+        <a id='book_design'
           className="App-link"
           href="https://books.zuri.team/design-rules"
           target="_blank"
@@ -97,11 +93,6 @@ function App() {
         </div>
         
       </header>
-      <footer className='App-footer'>
-        <img src={'./img/Zuri.Internship_Logo.png'} id="zuri_logo" className="zuri_logo" alt="zuri_logo" />
-        <p>HNG Internship 9 Frontend Task</p>
-        <img src={'./img/I4G.png'} id="hng_logo" className="hng_logo" alt="hng_logo" />
-      </footer>
     </div>
   );
 }
